@@ -9,7 +9,7 @@ var torre, torreIMG;
 
 function preload(){
     //carrega a imagem do cenario
-    cenario = loadImage("fundo.gif")
+    
 
 }
 
