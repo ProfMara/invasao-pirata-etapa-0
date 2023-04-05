@@ -1,2 +1,1 @@
-# PRO-C22-wireframe
-wire frame for c22 
+# Os alunos aprendem a criar as classes dos principais objetos do jogo invasão pirata
